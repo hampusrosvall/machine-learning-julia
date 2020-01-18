@@ -1,8 +1,8 @@
-## Introduction 
+# Introduction 
 
 Implementation of common algorithms in Machine Learning using the Julia langugage as part of the Optimization for Learning course at Factulty of Engineering, Lund University. 
 
-## Description 
+# Description 
 The folders contain implementaion of: 
 
 * Lasso / tikohonov regularized regression 
@@ -13,7 +13,7 @@ The folders contain implementaion of:
 
 * Multi-class SVM using average confidence loss and Fenchel-Young duality
 
-## Running the code 
+# Running the code 
 
 Clone the repository and install Julia and Juno using the instructions on this website `http://docs.junolab.org/latest/man/installation/`. 
 
