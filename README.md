@@ -1,6 +1,6 @@
 ## Introduction 
 
-Implementation of common algorithms in Machine Learning using the Julia langugage. 
+Implementation of common algorithms in Machine Learning using the Julia langugage as part of the Optimization for Learning course at Factulty of Engineering, Lund University. 
 
 ## Description 
 The folders contain implementaion of: 
